@@ -1,0 +1,23 @@
+[
+	{
+		"FileExtension": ".java",
+		"SingleLineComment": "//",
+		"MultilineCommentStart": "/*",
+		"MultilineCommentMiddle": "*",
+		"MultilineCommentEnd": "*/"
+	},
+	{
+		"FileExtension": ".cs",
+		"SingleLineComment": "//",
+		"MultilineCommentStart": "/*",
+		"MultilineCommentMiddle": "*",
+		"MultilineCommentEnd": "*/"
+	},
+	{
+		"FileExtension": ".py",
+		"SingleLineComment": "#",
+		"MultilineCommentStart": "'''",
+		"MultilineCommentMiddle": "",
+		"MultilineCommentEnd": "'''"
+	}
+]
